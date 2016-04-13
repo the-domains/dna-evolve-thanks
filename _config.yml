@@ -1,6 +1,6 @@
 name: DNA Evolve Thanks
 favicon: null
-layout_spectrum: 0.5872007869184017
+layout_spectrum: 0.25042
 typography_spectrum: 0.24594892328605056
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.4807011093944311
+    - '#423aa5'
+    - '#7989e9'
+    - '#040208'
+    - '#5a5e7e'
+    - '#e3e9fe'
+  brandStrength: 0
   lightness: 0.04597041290253401
-  saturation: 0.781542380573228
+  saturation: 0.5
   rhythmicContrast: 0.17734023346565664
 purpose: []
