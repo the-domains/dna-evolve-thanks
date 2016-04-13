@@ -1,6 +1,6 @@
-name: DNA Evolve Thanks
+name: DNA Evolve - Success
 favicon: null
-layout_spectrum: 0.75796
+layout_spectrum: 0.24539
 typography_spectrum: 0.24594892328605056
 title: 'Visit us on the web at http://www.RNADrops.com'
 cta:
@@ -22,8 +22,8 @@ color:
     - '#040208'
     - '#5a5e7e'
     - '#e3e9fe'
-  brandStrength: 1
+  brandStrength: 0.5
   lightness: 0
   saturation: 0.4375
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
